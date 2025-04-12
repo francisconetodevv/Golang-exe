@@ -1,3 +1,5 @@
+/*Estudo sobre Golang*/
+
 package model
 
 import "time"
